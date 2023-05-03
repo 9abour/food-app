@@ -2,8 +2,8 @@
 
 # React Food App with NextJs  Redux toolkit, Tailwind  Free API
 
-Youtube: youtu.be/mZE2rtc933Y
+Youtube: https://youtu.be/mZE2rtc933Y
 <br />
-Preview: our-foods-app.netlify.app/
+Preview: https://our-foods-app.netlify.app/
 <br />
-API:  themealdb.com
+API:  https://themealdb.com
